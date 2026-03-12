@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": "2",
+      "name": "Mobile App"
+    },
+    {
+      "id": "19e2",
+      "name": "Frontend"
+    },
+    {
+      "id": "2517",
+      "name": "AI Project"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Create wireframes",
+      "projectId": 1
+    },
+    {
+      "id": "2",
+      "title": "Setup React project",
+      "projectId": 2
+    },
+    {
+      "id": "7146",
+      "title": "React",
+      "projectId": null
+    },
+    {
+      "id": "373e",
+      "title": "React",
+      "projectId": "19e2"
+    },
+    {
+      "id": "2ef4",
+      "title": "cluster",
+      "projectId": "2517"
+    },
+    {
+      "id": "e3f2",
+      "title": "Setup React project",
+      "projectId": "2"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
